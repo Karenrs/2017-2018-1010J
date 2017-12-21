@@ -29,9 +29,9 @@ Main Part                 | Sub-Part             | Serial Number        | Commen
 
 Sensors                | Quantity     | Serial Number(s)     | Comments
 ---------------------- | ------------ | -------------------- | --------------------
-**_Accelerometers_**   |              |                      |  Don't have
-**_Encoders_**         |              |                      |  Don't have
-**_Gyros_**            |              |                      |  Don't have
-**_Potentiometers_**   |              |                      |  Don't have
-**_Ultrasound_**       |              |                      |  Don't have
+**_Accelerometers_**   |      0       |                      |  Don't have
+**_Encoders_**         |      0       |                      |  Don't have
+**_Gyros_**            |      0       |                      |  Don't have
+**_Potentiometers_**   |      0       |                      |  Don't have
+**_Ultrasound_**       |      0       |                      |  Don't have
 
